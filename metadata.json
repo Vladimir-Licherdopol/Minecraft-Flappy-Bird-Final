@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Flappy Bird",
+  "description": "A Minecraft-themed Flappy Bird with multiple biomes, skin selection (Creeper, Chicken, Duck), and adjustable difficulties.",
+  "requestFramePermissions": []
+}
